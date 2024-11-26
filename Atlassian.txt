@@ -1,0 +1,60 @@
+what is clone
+
+how to close SSh , HHTP
+Har file  : https://confluence.atlassian.com/kb/generating-har-files-and-analyzing-web-requests-720420612.html
+
+SSH toubleshooting: https://confluence.atlassian.com/bbkb/troubleshooting-ssh-issues-302811847.html
+
+git commiy
+How to chnage remore repo in git
+Git merge
+Git cherry pick
+revert commit
+reset commit
+Rebase
+git pull, git fetch, git push
+Webhook -> Github
+
+web payload --> 
+
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+N/w : TCP IP  7 layers
+Port number works in which n/w layer
+
+DNS record
+How DNS work
+SSL /TLS handshake 
+
+browser Dev tools : HAr 
+Website error codes
+https://support.atlassian.com/bitbucket-cloud/docs/manage-webhooks/
+
+Ec2, S3, route 53, cloudfront , VPC , availablity zones,   Cloud formation template, Security groups .
+access REsourcing using key pairs
+IAM roles
+
+
+CDN : clod 
+
+Load balancer: proxy ,  forward and reverse proxy
+
+Scripting : Shell
+
+Splunk : 
+
+Docker : container vs virtulization 
+
+
+Docker hun : priavte ublic 
+
+What is image and containers   : https://confluence.atlassian.com/bbkb/debug-pipelines-locally-with-docker-1167698072.html
+
+Kuberenetes : 
+
+23,00,0000 : 
+
+24,00,0000 : 
+
+leaves: 
+
